@@ -1,4 +1,4 @@
 <?php
 
 echo "hello PAGODAbox! <br />";
-echo "you're still the coolest.";
+echo "you're still AMAZING.";
