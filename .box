@@ -1,0 +1,16 @@
+general:
+  writable_directories: [ /test2 ]
+
+web:
+  document_root: /
+  index_list: [info.php]
+  far_future_expires: false
+  locations:
+    -
+      path: /test
+      permissions:
+        -
+          rule: deny
+          who: all
+  error_pages:
+    "404": /error.php
