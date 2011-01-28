@@ -3,7 +3,7 @@ general:
 
 web:
   document_root: /
-  index_list: [info.php]
+  index_list: [index.php]
   far_future_expires: false
   locations:
     -
