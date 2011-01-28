@@ -7,7 +7,7 @@ web:
   far_future_expires: false
   locations:
     -
-      path: /test
+      path: /test/new.txt
       permissions:
         -
           rule: deny
