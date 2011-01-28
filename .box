@@ -1,5 +1,5 @@
 general:
-  writable_directories: [ /test2 ]
+  writable_directories: [ test2 ]
 
 web:
   document_root: /
