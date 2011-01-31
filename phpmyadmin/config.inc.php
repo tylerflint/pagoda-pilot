@@ -10,21 +10,21 @@ $i = 0;
 
 /* Server: pagoda free [1] */
 $i++;
-$cfg['Servers'][$i]['verbose'] = 'pagoda free';
-$cfg['Servers'][$i]['host'] = '';
-$cfg['Servers'][$i]['port'] = '';
-$cfg['Servers'][$i]['socket'] = '/tmp/mysql/chase.sock';
+$cfg['Servers'][$i]['verbose']      = 'pagoda free';
+$cfg['Servers'][$i]['host']         = '';
+$cfg['Servers'][$i]['port']         = '';
+$cfg['Servers'][$i]['socket']       = '/tmp/mysql/chase.sock';
 $cfg['Servers'][$i]['connect_type'] = 'socket';
-$cfg['Servers'][$i]['extension'] = 'mysqli';
-$cfg['Servers'][$i]['auth_type'] = 'config';
-$cfg['Servers'][$i]['user'] = 'root';
-$cfg['Servers'][$i]['password'] = 'root';
+$cfg['Servers'][$i]['extension']    = 'mysqli';
+$cfg['Servers'][$i]['auth_type']    = 'config';
+$cfg['Servers'][$i]['user']         = 'julie';
+$cfg['Servers'][$i]['password']     = 'password';
 
 /* End of servers configuration */
 
 $cfg['blowfish_secret'] = '4d44ad45238483.47267199';
-$cfg['DefaultLang'] = 'en-utf-8';
-$cfg['ServerDefault'] = 1;
-$cfg['UploadDir'] = '';
-$cfg['SaveDir'] = '';
+$cfg['DefaultLang']     = 'en-utf-8';
+$cfg['ServerDefault']   = 1;
+$cfg['UploadDir']       = '';
+$cfg['SaveDir']         = '';
 ?>
