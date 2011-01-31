@@ -17,7 +17,7 @@ $cfg['Servers'][$i]['socket']       = '/tmp/mysql/chase.sock';
 $cfg['Servers'][$i]['connect_type'] = 'socket';
 $cfg['Servers'][$i]['extension']    = 'mysqli';
 $cfg['Servers'][$i]['auth_type']    = 'config';
-$cfg['Servers'][$i]['user']         = 'julie';
+$cfg['Servers'][$i]['user']         = 'root';
 $cfg['Servers'][$i]['password']     = 'password';
 
 /* End of servers configuration */
