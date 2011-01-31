@@ -2,7 +2,7 @@ general:
   writable_directories: [ test2, phpmyadmin/config ]
 
 web:
-  document_root: /
+  document_root: '/app'
   index_list: [index.php]
   far_future_expires: false
   locations:
