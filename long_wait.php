@@ -1,4 +1,4 @@
 <?php
 
-sleep(60);
+sleep(10);
 echo "awoke from my hibernation!";
