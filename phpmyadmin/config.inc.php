@@ -17,7 +17,7 @@ $cfg['Servers'][$i]['socket']       = '/tmp/mysql/delmy.sock';
 $cfg['Servers'][$i]['connect_type'] = 'socket';
 $cfg['Servers'][$i]['extension']    = 'mysqli';
 $cfg['Servers'][$i]['auth_type']    = 'config';
-$cfg['Servers'][$i]['user']         = 'delmy';
+$cfg['Servers'][$i]['user']         = 'margart';
 $cfg['Servers'][$i]['password']     = '2TIgYpv5';
 
 /* End of servers configuration */
