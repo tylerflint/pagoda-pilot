@@ -13,12 +13,12 @@ $i++;
 $cfg['Servers'][$i]['verbose']      = 'pagoda free';
 $cfg['Servers'][$i]['host']         = '';
 $cfg['Servers'][$i]['port']         = '';
-$cfg['Servers'][$i]['socket']       = '/tmp/mysql/fran.sock';
+$cfg['Servers'][$i]['socket']       = '/tmp/mysql/delmy.sock';
 $cfg['Servers'][$i]['connect_type'] = 'socket';
 $cfg['Servers'][$i]['extension']    = 'mysqli';
 $cfg['Servers'][$i]['auth_type']    = 'config';
-$cfg['Servers'][$i]['user']         = 'valentina';
-$cfg['Servers'][$i]['password']     = 'urFWzD1Y';
+$cfg['Servers'][$i]['user']         = 'delmy';
+$cfg['Servers'][$i]['password']     = '2TIgYpv5';
 
 /* End of servers configuration */
 
