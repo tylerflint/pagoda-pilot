@@ -1,7 +1,7 @@
 <?php
 
 echo "hello PAGODAbox! <br />";
-echo "you're still AMAZING.";
+echo "you're pretty much AMAZING.";
 
 echo "also github is awesome";
 
