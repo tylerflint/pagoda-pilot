@@ -2,7 +2,7 @@ general:
   writable_directories: [ test2, phpmyadmin/config ]
 
 php:
-  extensions: [eaccelerator]
+  extensions: [eaccelerator] 
 
 web:
   document_root: '/'
