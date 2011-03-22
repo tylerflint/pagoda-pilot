@@ -14,3 +14,6 @@ web:
           who: all
   error_pages:
     "404": /error.php
+    
+php:
+    extensions: [eaccelerator]
