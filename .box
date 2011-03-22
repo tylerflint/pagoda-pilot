@@ -1,6 +1,9 @@
 general:
   writable_directories: [ test2, phpmyadmin/config ]
 
+php:
+  extensions: [eaccelerator]
+
 web:
   document_root: '/'
   index_list: [index.php]
@@ -15,5 +18,3 @@ web:
   error_pages:
     "404": /error.php
     
-php:
-    extensions: [eaccelerator]
