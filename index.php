@@ -1,4 +1,5 @@
 <?php
+echo "checking deploy to commit<br />";
 echo "pagoda-pilot <br />";  
 echo "hello PAGODAbox! <br />";
 echo "you're pretty much AMAZING.";
