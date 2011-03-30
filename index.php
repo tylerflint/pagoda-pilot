@@ -1,5 +1,5 @@
 <?php
-echo "welcome to pagoda-pilot <br />"; 
+echo "welcome to pagoda-pilot <br />";  
 echo "hello PAGODAbox! <br />";
 echo "you're pretty much AMAZING.";
 
