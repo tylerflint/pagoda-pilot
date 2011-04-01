@@ -1,21 +1,15 @@
-general:
-  writable_directories: [ test2, phpmyadmin/config ]
+writable_directories: [ test2 ]
 
-php:
-  version: '5.3.5'
-  extensions: [eaccelerator] 
+version: '5.3.5'
 
-web:
-  document_root: '/'
-  index_list: [index.php]
-  far_future_expires: false
-  locations:
-    -
-      path: /test/new.txt
-      permissions:
-        -
-          rule: deny
-          who: all
-  error_pages:
+extensions: [eaccelerator] 
+
+document_root: '/'
+
+index_list: [index.php]
+
+far_future_expires: false
+
+error_pages:
     "404": /error.php
     
