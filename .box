@@ -14,5 +14,5 @@ error_pages:
     "404": /error.php
     
 url_rewrites:
-    - "^/location_a.php /location_b.php; server {"
+    - ^/location_a.php /location_b.php
     
