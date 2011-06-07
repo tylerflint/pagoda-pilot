@@ -14,5 +14,8 @@ error_pages:
     "404": /error.php
     
 url_rewrites:
-    - ^/location_a.php /location_b.php
+    - 
+        rule: ^/location_a.php /location_b.php
+        conditions:
+            - "!-f $request_filename"
     
