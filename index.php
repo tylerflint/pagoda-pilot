@@ -1,1 +1,5 @@
-<h1>WHAT WHAT -MASTER!</h1>
+<?php
+
+echo $_SERVER;
+
+?>
