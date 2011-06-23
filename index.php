@@ -1,1 +1,5 @@
-<h1>MASTER!, with a quintuple change</h1>
+<?php
+
+print_r($_GET);
+
+?>
