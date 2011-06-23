@@ -6,7 +6,7 @@ extensions: [eaccelerator]
 
 document_root: '/'
 
-index_list: [index.php]
+index_list: [index.html, index.php]
 
 far_future_expires: false
 
