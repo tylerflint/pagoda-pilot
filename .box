@@ -11,7 +11,7 @@ index_list: [index.html, index.php]
 far_future_expires: false
 
 error_pages:
-    "404": /error.php
+    "404": "http://pilot.pagodabox.com/info.php$uri"
     
 url_rewrites:
     - "^/test(.*)$ /info.php$1 redirect"
