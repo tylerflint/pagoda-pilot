@@ -13,3 +13,6 @@ far_future_expires: false
 error_pages:
     "404": /error.php
     
+url_rewrites:
+    - "^/test$ /info.php redirect"
+    
