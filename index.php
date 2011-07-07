@@ -2,6 +2,6 @@
 
 echo "Hey Pilot!";
 echo "<br />";
-echo "PagodaBox is cool"
+echo "PagodaBox is sweet!"
 
 ?>
