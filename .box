@@ -2,7 +2,7 @@ writable_directories: [ test2 ]
 
 version: '5.2.17'
 
-extensions: [eaccelerator] 
+extensions: [eaccelerator, mysql] 
 
 document_root: '/'
 
