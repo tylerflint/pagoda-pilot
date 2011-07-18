@@ -1,5 +1,9 @@
 writable_directories: [ test2 ]
 
+some_bad_node:
+  - bad indent 1
+   - bad indent 2
+
 version: '5.2.17'
 
 extensions: [eaccelerator, mysql, mysqli] 
