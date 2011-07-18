@@ -1,8 +1,9 @@
-writable_directories: [ test2 ]
+writable_directories: [ test2 
+  what]
 
 some_bad_node:
   - bad indent 1
-   - bad indent 2
+   - bad indent 5
 
 version: '5.2.17'
 
