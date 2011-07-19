@@ -1,9 +1,4 @@
-writable_directories: [ test2 
-  what]
-
-some_bad_node:
-  - bad indent 1
-   - bad indent 5
+writable_directories: [ test2 ]
 
 version: '5.2.17'
 
@@ -17,26 +12,7 @@ far_future_expires: false
 
 error_pages:
     "404": "http://pilot.pagodabox.com/info.php$uri"
-   
+    
 url_rewrites:
-   	###   ^index\.php$ - [L]
-    - "^index.php$ last"
-
-	### uploaded files
-	### RewriteRule ^([_0-9a-zA-Z-]+/)?files/(.+) wp-includes/ms-files.php?file=$2 [L]
-    - "^/([_0-9a-zA-Z-]+/)?files/(.+) /wp-includes/ms-files.php?file=$2 last"
+    - "^/test(.*)$ /info.php$1 redirect"
     
-        rule: "^/ last"
-        conditions:
-            - "!-f $request_filename"
-            - "!-d $request_filename"       
-    
-   	###   ^[_0-9a-zA-Z-]+/(wp-(content|admin|includes).*) $1 [L]
-    - "^/[_0-9a-zA-Z-]+/(wp-(content|admin|includes).*) /$1 last"
-
-   	###   ^[_0-9a-zA-Z-]+/(.*\.php)$ $1 [L]
-    - "^/[_0-9a-zA-Z-]+/(.*\.php)$ /$1 last"
-
-   	###   . index.php [L]
-    - ". index.php last"
-
