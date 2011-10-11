@@ -4,7 +4,6 @@ echo "Hey Pilot!";
 echo "<br />";
 echo "NEWPAGODABOX YEAHHHH!";
 echo "<br />";
-echo "redeploy works?<br />";
-echo "that would be a yes!";
+echo "please tell me we can handle concurrency...<br />";
   
 ?>
