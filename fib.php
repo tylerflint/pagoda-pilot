@@ -9,6 +9,6 @@ function fib( $n ) {
   }
 } 
 
-for( $i=0; $i<5000; $i++ ) {   
+for( $i=0; $i<20; $i++ ) {   
   echo fib( $i )." - ";
 } 
