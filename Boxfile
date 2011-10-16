@@ -2,6 +2,33 @@ web1:
   shared_writable_dirs:
     - tmp
 
+web2:
+ kind: php
+
+web3:
+ kind: php
+
+web4:
+ kind: php
+
+web5:
+ kind: php
+
+web6:
+ kind: php
+
+web7:
+ kind: php
+
+web8:
+ kind: php
+
+web9:
+ kind: php
+
+web10:
+ kind: php
+
 db1:
   kind: mysql
 
@@ -181,4 +208,3 @@ db59:
 
 db60:
   kind: mysql
-  
