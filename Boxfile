@@ -7,3 +7,57 @@ db1:
 
 db2:
   kind: mysql
+
+db3:
+  kind: mysql
+
+db4:
+  kind: mysql
+
+db5:
+  kind: mysql
+
+db6:
+  kind: mysql
+
+db7:
+  kind: mysql
+
+db8:
+  kind: mysql
+
+db9:
+  kind: mysql
+
+db10:
+  kind: mysql
+
+db11:
+  kind: mysql
+
+db12:
+  kind: mysql
+
+db13:
+  kind: mysql
+
+db14:
+  kind: mysql
+
+db15:
+  kind: mysql
+
+db16:
+  kind: mysql
+
+db17:
+  kind: mysql
+
+db18:
+  kind: mysql
+
+db19:
+  kind: mysql
+
+db20:
+  kind: mysql
