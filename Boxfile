@@ -61,3 +61,63 @@ db19:
 
 db20:
   kind: mysql
+
+db21:
+  kind: mysql
+
+db22:
+  kind: mysql
+
+db23:
+  kind: mysql
+
+db24:
+  kind: mysql
+
+db25:
+  kind: mysql
+
+db26:
+  kind: mysql
+
+db27:
+  kind: mysql
+
+db28:
+  kind: mysql
+
+db29:
+  kind: mysql
+
+db30:
+  kind: mysql
+
+db31:
+  kind: mysql
+
+db32:
+  kind: mysql
+
+db33:
+  kind: mysql
+
+db34:
+  kind: mysql
+
+db35:
+  kind: mysql
+
+db36:
+  kind: mysql
+
+db37:
+  kind: mysql
+
+db38:
+  kind: mysql
+
+db39:
+  kind: mysql
+
+db40:
+  kind: mysql
