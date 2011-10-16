@@ -29,8 +29,8 @@ web1:
 # web10:
 #  kind: php
 
-# db1:
-#   kind: mysql
+db1:
+  kind: mysql
 
 # db2:
 #   kind: mysql
