@@ -121,3 +121,64 @@ db39:
 
 db40:
   kind: mysql
+
+db41:
+  kind: mysql
+
+db42:
+  kind: mysql
+
+db43:
+  kind: mysql
+
+db44:
+  kind: mysql
+
+db45:
+  kind: mysql
+
+db46:
+  kind: mysql
+
+db47:
+  kind: mysql
+
+db48:
+  kind: mysql
+
+db49:
+  kind: mysql
+
+db50:
+  kind: mysql
+
+db51:
+  kind: mysql
+
+db52:
+  kind: mysql
+
+db53:
+  kind: mysql
+
+db54:
+  kind: mysql
+
+db55:
+  kind: mysql
+
+db56:
+  kind: mysql
+
+db57:
+  kind: mysql
+
+db58:
+  kind: mysql
+
+db59:
+  kind: mysql
+
+db60:
+  kind: mysql
+  
